@@ -901,7 +901,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11405427,Gradinita Cu Program Normal Blidari,30,893,0
 11394938,Gradinita Cu Program Normal Bobicesti,18,894,0
 11409306,Gradinita Cu Program Normal Bocicoiu Mare,15,895,0
-11409306,Gradinita Cu Program Normal Bocicoiu Mare,15,14857,0
 11407155,Gradinita Cu Program Normal Bodaiesti,12,896,1
 11405453,Gradinita Cu Program Normal Bogdanesti,30,897,0
 11404831,Gradinita Cu Program Normal Boghesti,9,898,0
@@ -971,7 +970,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11403368,Gradinita Cu Program Normal ’’Casuta Cu Povesti’’ Brehuiesti,10,962,0
 11408034,"Gradinita Cu Program Normal ""Casuta Piticilor"", Oras Tg.Bujor",32,963,1
 11405044,Gradinita Cu Program Normal Catane,12,964,0
-11405044,Gradinita Cu Program Normal Catane,12,9483,0
 11404661,Gradinita Cu Program Normal Catauti,9,965,1
 11405077,Gradinita Cu Program Normal Celaru,12,966,0
 11394958,Gradinita Cu Program Normal Celeiu,18,967,0
@@ -1072,7 +1070,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11409292,Gradinita Cu Program Normal Corni,15,1062,0
 11405753,Gradinita Cu Program Normal Cornu,12,1063,0
 11404823,Gradinita Cu Program Normal Coroteni,9,1064,0
-11404823,Gradinita Cu Program Normal Coroteni,9,9530,0
 11400285,Gradinita Cu Program Normal Coslariu,28,1065,0
 11405178,Gradinita Cu Program Normal Cosoveni,12,1066,0
 11409341,Gradinita Cu Program Normal Costeni,15,1067,0
@@ -1144,7 +1141,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11395012,Gradinita Cu Program Normal Farcasu De Jos,18,1133,1
 11400302,Gradinita Cu Program Normal Feisa,28,1134,1
 11404668,Gradinita Cu Program Normal Feldioara,9,1135,0
-11404668,Gradinita Cu Program Normal Feldioara,9,9584,0
 11400729,Gradinita Cu Program Normal Fenes,28,1136,0
 11405197,Gradinita Cu Program Normal Ferastrau,30,1137,0
 11404829,Gradinita Cu Program Normal Fetesti,9,1138,0
@@ -1702,7 +1698,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11407963,"Gradinita Cu Program Normal Nr.1, Sat Zarnesti, Comuna Jorasti",32,1676,0
 11403690,Gradinita Cu Program Normal Nr.1 Saveni,10,1677,0
 11406528,Gradinita Cu Program Normal Nr.1 Sindrilari,9,1678,1
-11406528,Gradinita Cu Program Normal Nr.1 Sindrilari,9,9879,1
 11395087,Gradinita Cu Program Normal Nr.1 Slatina,18,1679,0
 11408977,Gradinita Cu Program Normal Nr.1 Spantov,3,1680,0
 11395088,Gradinita Cu Program Normal Nr.1 Sprâncenata,18,1681,0
@@ -1859,7 +1854,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11395123,Gradinita Cu Program Normal Plesoiu,18,1815,0
 11405801,Gradinita Cu Program Normal Plopsor,12,1816,1
 11409364,Gradinita Cu Program Normal Plopsor,15,1817,0
-11409364,Gradinita Cu Program Normal Plopsor,15,10442,0
 11404781,Gradinita Cu Program Normal Plopu,9,1818,0
 11404907,Gradinita Cu Program Normal Plosca,12,1819,0
 11404595,Gradinita Cu Program Normal Plostina,9,1820,0
@@ -1871,7 +1865,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11405196,Gradinita Cu Program Normal Poiana Sarata,30,1826,1
 11400150,Gradinita Cu Program Normal Poiana Vadului,28,1827,1
 11406459,Gradinita Cu Program Normal Poienita,9,1828,0
-11406459,Gradinita Cu Program Normal Poienita,9,10378,0
 11400398,Gradinita Cu Program Normal Ponorel,28,1829,0
 11409187,"Gradinita Cu Program Normal ""Popa Lupu"" Sighetu Marmatiei",15,1830,0
 11405443,Gradinita Cu Program Normal Popesti,30,1831,0
@@ -2036,7 +2029,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11402775,"Gradinita Cu Program Normal, Sat Ursi, Com. Stoilesti",23,1989,0
 11402864,"Gradinita Cu Program Normal, Sat Usurei, Com. Susani",23,1990,0
 11402950,"Gradinita Cu Program Normal, Sat Valea Cheii, Com. Pausesti Maglasi",23,1991,0
-11402950,"Gradinita Cu Program Normal, Sat Valea Cheii, Com. Pausesti Maglasi",23,10408,0
 11402835,"Gradinita Cu Program Normal, Sat Valea Lui Stan, Oras Brezoi",23,1992,1
 11402646,"Gradinita Cu Program Normal, Sat Valea Mare, Oras Babeni",23,1993,1
 11402919,"Gradinita Cu Program Normal, Sat Valea Valeni, Com. Zatreni",23,1994,0
@@ -2160,7 +2152,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11400126,Gradinita Cu Program Normal Valea Lupsii,28,2112,1
 11400732,Gradinita Cu Program Normal Valea Mica,28,2113,1
 11404465,Gradinita Cu Program Normal Valea Sarii,9,2114,0
-11404465,Gradinita Cu Program Normal Valea Sarii,9,10088,0
 11400292,Gradinita Cu Program Normal Valea Vintului,28,2115,1
 11395175,Gradinita Cu Program Normal Valeni,18,2116,0
 11409339,Gradinita Cu Program Normal Valenii Lapusului,15,2117,0
@@ -2176,7 +2167,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11405848,Gradinita Cu Program Normal Verbicioara,12,2127,0
 11405849,Gradinita Cu Program Normal Verbita,12,2128,0
 11404730,Gradinita Cu Program Normal Verdea,9,2129,0
-11404730,Gradinita Cu Program Normal Verdea,9,10462,0
 11409269,"Gradinita Cu Program Normal ""Veronica"" Viseu De Sus",15,2130,0
 11400278,Gradinita Cu Program Normal Veseus,28,2131,1
 11406471,Gradinita Cu Program Normal Vetresti-Herastrau,9,2132,1
@@ -3259,7 +3249,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11403132,Grădinița Cu Program Normal Ciumărna,1,3163,0
 11394193,Grădinița Cu Program Normal Ciumârna,4,3164,0
 11396250,Grădinița Cu Program Normal Ciuperceni,11,3165,0
-11396250,Grădinița Cu Program Normal Ciuperceni,11,10982,0
 11406640,Grădinița Cu Program Normal Cîrstieni,35,3166,0
 11395350,Grădinița Cu Program Normal Cladova,33,3167,0
 11395351,Grădinița Cu Program Normal Cliciova,33,3168,1
@@ -3884,7 +3873,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11394841,"Grădinița Cu Program Normal Hotăroasa, Urdari",11,3784,1
 11406870,Grădinița Cu Program Normal Huluba,35,3785,0
 11400844,Grădinița Cu Program Normal Hulubești,44,3786,0
-11400844,Grădinița Cu Program Normal Hulubești,44,12737,0
 11406859,Grădinița Cu Program Normal Humele,35,3787,0
 11394736,Grădinița Cu Program Normal Humoreni,4,3788,1
 11395961,Grădinița Cu Program Normal Hurezani,11,3789,0
@@ -4984,7 +4972,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11400852,Grădinița Cu Program Normal Nr.1 Moreni,44,4842,0
 11402010,Grădinița Cu Program Normal Nr.1 Morteni,44,4843,0
 11396082,Grădinița Cu Program Normal Nr.1 Mușetești,11,4844,0
-11396082,Grădinița Cu Program Normal Nr.1 Mușetești,11,12170,0
 11400858,Grădinița Cu Program Normal Nr.1 Niculești,44,4845,0
 11402349,Grădinița Cu Program Normal Nr.1 Nojorid,39,4846,0
 11400998,Grădinița Cu Program Normal Nr.1 Oborani Vișina,44,4847,0
@@ -5041,11 +5028,9 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11407310,Grădinița Cu Program Normal Nr.1 Târlișua,45,4896,1
 11399175,Grădinița Cu Program Normal Nr.1 Teișori,2,4897,1
 11396179,Grădinița Cu Program Normal Nr.1 Telești,11,4898,0
-11396179,Grădinița Cu Program Normal Nr.1 Telești,11,6292,0
 11402065,Grădinița Cu Program Normal Nr.1 Titu Gară,44,4899,0
 11403316,Grădiniţa Cu Program Normal Nr.1 Todireni,10,4900,0
 11395975,"Grădinița Cu Program Normal Nr.1 Totea, Licurici",11,4901,0
-11395975,"Grădinița Cu Program Normal Nr.1 Totea, Licurici",11,14641,0
 11405957,Grădiniţa Cu Program Normal Nr.1 Tulca,39,4902,0
 11396036,Grădinița Cu Program Normal Nr.1 Turceni,11,4903,0
 11394872,Grădinița Cu Program Normal Nr.1 Țicleni,11,4904,1
@@ -5198,7 +5183,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11402390,Grădinița Cu Program Normal Nr.2 Tămășeu,39,5047,0
 11405941,Grădinița Cu Program Normal Nr.2 Tărcăița,39,5048,0
 11396175,Grădinița Cu Program Normal Nr.2 Telești,11,4898,0
-11396175,Grădinița Cu Program Normal Nr.2 Telești,11,6292,0
 11401896,Grădinița Cu Program Normal Nr.2 Titu Tirg,44,5049,0
 11402088,Grădinița Cu Program Normal Nr.2 Țepeș Vodă Bâldana Tărtășești,44,5050,0
 11404431,Grădinița Cu Program Normal Nr.2 Țețchea,39,5051,0
@@ -5485,7 +5469,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11406682,Grădinița Cu Program Normal Păcioiu,35,5329,0
 11396654,Grădinița Cu Program Normal Pădureni,8,5330,0
 11405489,Grădiniţa Cu Program Normal Pădureni,30,5331,0
-11405489,Grădiniţa Cu Program Normal Pădureni,30,5817,0
 11406791,Grădinița Cu Program Normal Păduroiu Din Deal,35,5332,1
 11406789,Grădinița Cu Program Normal Păduroiu Din Vale,35,5333,1
 11405502,Grădiniţa Cu Program Normal Păgubeni Dărmăneşti,30,5334,1
@@ -5780,7 +5763,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11397164,"Grădinița Cu Program Normal, Sat Albești-Muru, Comuna Albești-Paleologu",41,5619,1
 11394067,Grădiniţa Cu Program Normal Sat Aldeni Comuna Cernăteşti,37,5620,0
 11408140,"Grădinița Cu Program Normal, Sat Alexandru Vlahuță",26,5621,0
-11408140,"Grădinița Cu Program Normal, Sat Alexandru Vlahuță",26,10604,0
 11394467,Grădinița Cu Program Normal Sat Arcanu Comuna Scutelnici,37,5622,0
 11408530,"Grădinița Cu Program Normal, Sat Armășoaia",26,5623,0
 11408145,"Grădinița Cu Program Normal, Sat Arsura",26,5624,0
@@ -5802,13 +5784,11 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11408177,"Grădinița Cu Program Normal, Sat Bălteni",26,5639,0
 11397186,"Grădinița Cu Program Normal, Sat Băltița, Comuna Mănești",41,5640,0
 11408601,"Grădinița Cu Program Normal, Sat Bălțați",26,5641,0
-11408601,"Grădinița Cu Program Normal, Sat Bălțați",26,11748,0
 11408635,"Grădinița Cu Program Normal, Sat Băncești",26,5642,0
 11397197,"Grădinița Cu Program Normal, Sat Bătești, Comuna Brazi",41,5643,0
 11397200,"Grădinița Cu Program Normal, Sat Bâra, Comuna Balta Doamnei",41,5644,0
 11408311,"Grădinița Cu Program Normal, Sat Bârlălești",26,5645,0
 11408577,"Grădinița Cu Program Normal, Sat Bârzești",26,5646,0
-11408577,"Grădinița Cu Program Normal, Sat Bârzești",26,14829,0
 11394074,Grădiniţa Cu Program Normal Sat Bâsca Chiojdului Comuna Chiojdu,37,5647,0
 11394058,Grădiniţa Cu Program Normal Sat Bâscenii De Sus Comuna Calvini,37,5648,0
 11397201,"Grădinița Cu Program Normal, Sat Belciug, Comuna Drăgănești",41,5649,0
@@ -5893,7 +5873,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11408314,"Grădinița Cu Program Normal, Sat Horga",26,5726,0
 11420967,"Grădinița Cu Program Normal, Sat Horoiata",26,5727,0
 11408236,"Grădinița Cu Program Normal, Sat Hreasca",26,5728,0
-11408236,"Grădinița Cu Program Normal, Sat Hreasca",26,14883,0
 11408607,"Grădinița Cu Program Normal, Sat Huc",26,5729,0
 11408270,"Grădinița Cu Program Normal, Sat Hurdugi",26,5730,1
 11408372,"Grădinița Cu Program Normal, Sat Iana",26,5731,0
@@ -5938,7 +5917,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11397784,"Grădinița Cu Program Normal, Sat Mehedința, Comuna Podenii Noi",41,5769,0
 11397786,"Grădinița Cu Program Normal, Sat Melicești, Comuna Telega",41,5770,1
 11397787,"Grădinița Cu Program Normal, Sat Meri, Comuna Drăgănești",41,5771,0
-11397787,"Grădinița Cu Program Normal, Sat Meri, Comuna Drăgănești",41,14895,0
 11408151,"Grădinița Cu Program Normal, Sat Miclești",26,5772,0
 11408423,"Grădinița Cu Program Normal, Sat Miclești",26,5773,0
 11397789,"Grădinița Cu Program Normal, Sat Minieri, Comuna Filipeștii De Pădure",41,5774,1
@@ -5986,7 +5964,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11408676,"Grădinița Cu Program Normal, Sat Parpanița",26,5815,0
 11408484,"Grădinița Cu Program Normal, Sat Pădureni",26,5816,0
 11408490,"Grădinița Cu Program Normal, Sat Pădureni",26,5331,0
-11408490,"Grădinița Cu Program Normal, Sat Pădureni",26,5817,0
 11394485,Grădiniţa Cu Program Normal Sat Pădurenii Comuna Tisău,37,5818,0
 11408174,"Grădinița Cu Program Normal, Sat Păltiniș",26,5819,0
 11394137,Grădinița Cu Program Normal Sat Păltiniș Comuna Gura Teghii,37,5820,0
@@ -6028,7 +6005,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11408243,"Grădinița Cu Program Normal, Sat Puntișeni",26,5855,0
 11408541,"Grădinița Cu Program Normal, Sat Pușcași",26,5856,0
 11408341,"Grădinița Cu Program Normal, Sat Racovița",26,5857,0
-11408341,"Grădinița Cu Program Normal, Sat Racovița",26,14917,0
 11408678,"Grădinița Cu Program Normal, Sat Rafaila",26,5858,0
 11408132,"Grădinița Cu Program Normal, Sat Raiu",26,5859,0
 11408547,"Grădinița Cu Program Normal, Sat Rateșu Cuzei",26,5860,0
@@ -6039,7 +6015,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11408322,"Grădinița Cu Program Normal, Sat Rânzești",26,5864,0
 11408296,"Grădinița Cu Program Normal, Sat Râșești",26,5865,1
 11408373,"Grădinița Cu Program Normal, Sat Recea",26,5866,0
-11408373,"Grădinița Cu Program Normal, Sat Recea",26,12977,0
 11408221,"Grădinița Cu Program Normal, Sat Rediu Galian",26,5867,0
 11408561,"Grădinița Cu Program Normal, Sat Roșiești",26,5868,0
 11397988,"Grădinița Cu Program Normal, Sat Rotari, Comuna Ceptura",41,5869,0
@@ -6090,7 +6065,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11408609,"Grădinița Cu Program Normal, Sat Todirești",26,5912,0
 11408503,"Grădinița Cu Program Normal, Sat Tomești",26,5913,0
 11408534,"Grădinița Cu Program Normal, Sat Toporăști",26,5914,0
-11408534,"Grădinița Cu Program Normal, Sat Toporăști",26,14932,0
 11397862,"Grădinița Cu Program Normal, Sat Trăisteni, Comuna Valea Doftanei",41,5915,0
 11397857,"Grădinița Cu Program Normal, Sat Trenu, Comuna Chiojdeanca",41,5916,0
 11408360,"Grădinița Cu Program Normal, Sat Trestiana",26,5917,0
@@ -6291,10 +6265,8 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11406569,Grădinița Cu Program Normal Slănic,35,6109,0
 11393633,Grădinița Cu Program Normal Slătioara,4,6110,0
 11393728,Grădinița Cu Program Normal Slătioara,4,6111,0
-11393728,Grădinița Cu Program Normal Slătioara,4,13431,0
 11399814,Grădiniţa Cu Program Normal Slimnic,29,6112,0
 11395942,Grădinița Cu Program Normal Slivilești,11,6113,0
-11395942,Grădinița Cu Program Normal Slivilești,11,13433,0
 11393351,"Grădinița Cu Program Normal, Slobozia",19,3926,0
 11399253,Grădinița Cu Program Normal Slobozia Mândra,34,6114,0
 11400923,Grădinița Cu Program Normal Slobozia Moară,44,6115,0
@@ -6476,7 +6448,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11396826,Grădinița Cu Program Normal Telechia,8,6290,0
 11396653,"Grădinița Cu Program Normal ""Teleki Zsigmond"" Moacșa",8,6291,1
 11401890,Grădinița Cu Program Normal Telești Ludești,44,4898,0
-11401890,Grădinița Cu Program Normal Telești Ludești,44,6292,0
 11392140,Grădinița Cu Program Normal Telița,17,6293,0
 11410158,Grădinița Cu Program Normal Teliu,36,6294,0
 11410159,Grădinița Cu Program Normal Teliu Vale,36,6295,0
@@ -6622,7 +6593,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11400822,Grădinița Cu Program Normal Valea Caselor Valea Mare,44,6435,1
 11398881,Grădiniţa Cu Program Normal Valea Cânepii,16,6436,1
 11396844,Grădinița Cu Program Normal Valea Crișului,8,6437,1
-11396844,Grădinița Cu Program Normal Valea Crișului,8,11882,1
 11401277,Grădiniţa Cu Program Normal Valea Dacilor,31,6438,0
 11393677,Grădinița Cu Program Normal Valea Glodului,4,6439,0
 11406118,"Grădinița Cu Program Normal Valea Gugii, Com. Cășeiu",42,6440,1
@@ -6692,7 +6662,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11403189,Grădinița Cu Program Normal Vârșolț,1,6499,1
 11404369,Grădiniţa Cu Program Normal Vârtop,31,6500,0
 11396249,"Grădinița Cu Program Normal Vârtopu, Ciuperceni",11,6501,0
-11396249,"Grădinița Cu Program Normal Vârtopu, Ciuperceni",11,15127,0
 11410175,Grădinița Cu Program Normal Veneția De Jos,36,6502,0
 11410174,Grădinița Cu Program Normal Veneția De Sus,36,6503,0
 11404326,Grădiniţa Cu Program Normal Verendin,27,6504,0
@@ -9890,7 +9859,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11407134,Scoala Gimnaziala Carpen,12,9481,0
 11405034,Scoala Gimnaziala Castranova,12,9482,1
 11405043,Scoala Gimnaziala Catane,12,964,0
-11405043,Scoala Gimnaziala Catane,12,9483,0
 11405096,Scoala Gimnaziala Cerat,12,9484,0
 11409319,Scoala Gimnaziala Cernesti,15,9485,0
 11409468,Scoala Gimnaziala Cetatele,15,9486,1
@@ -9963,7 +9931,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11395232,Scoala Gimnaziala Cornatelu,18,9528,1
 11409337,Scoala Gimnaziala Coroieni,15,9529,1
 11404820,Scoala Gimnaziala Coroteni,9,1064,0
-11404820,Scoala Gimnaziala Coroteni,9,9530,0
 11405177,Scoala Gimnaziala Cosoveni,12,9531,1
 11402811,"Scoala Gimnaziala ""Costea Marinoiu"", Oras Ocnele Mari",23,9532,0
 11405181,Scoala Gimnaziala Cotofenii Din Dos,12,9533,1
@@ -10040,7 +10007,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11395234,Scoala Gimnaziala Farcasu De Jos,18,9582,1
 11409332,Scoala Gimnaziala Fauresti,15,9583,0
 11404665,Scoala Gimnaziala Feldioara,9,1135,0
-11404665,Scoala Gimnaziala Feldioara,9,9584,0
 11409480,Scoala Gimnaziala Fericea,15,9585,1
 11402663,"Scoala Gimnaziala Ferigile, Com. Costesti",23,1011,0
 11405736,Scoala Gimnaziala Filiasi,12,1429,1
@@ -10478,7 +10444,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11407931,"Scoala Gimnaziala Nr.1, Sat Viile, Comuna Fartanesti",32,1673,0
 11403688,Scoala Gimnaziala Nr.1 Saveni,10,2292,1
 11406526,Scoala Gimnaziala Nr.1 Sindrilari,9,1678,0
-11406526,Scoala Gimnaziala Nr.1 Sindrilari,9,9879,0
 11408972,Scoala Gimnaziala Nr.1 Sohatu,3,9880,0
 11408981,Scoala Gimnaziala Nr.1 Spantov,3,1680,0
 11408989,Scoala Gimnaziala Nr.1 Stefan Voda,3,9881,0
@@ -10813,7 +10778,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11409328,"Scoala Gimnaziala ""Vasile Ghetie"" Berinta",15,10087,1
 11400761,"Scoala Gimnaziala ""Vasile Goldis"" Alba Iulia",28,2378,0
 11404464,"Scoala Gimnaziala ""Vasile Iftimescu"" Valea Sarii",9,2114,0
-11404464,"Scoala Gimnaziala ""Vasile Iftimescu"" Valea Sarii",9,10088,0
 11409466,"Scoala Gimnaziala ""Vasile Lucaciu"" Sisesti",15,10089,0
 11402497,"Scoala Gimnaziala ""Vasile Seicaru"", Comuna Oancea",32,1573,0
 11405847,Scoala Gimnaziala Verbita,12,10090,0
@@ -11301,7 +11265,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11405449,Scoala Primara Poiana Negustorului,30,10376,1
 11405279,Scoala Primara Poieni,30,10377,0
 11406453,Scoala Primara Poienita,9,1828,0
-11406453,Scoala Primara Poienita,9,10378,0
 11409338,Scoala Primara Ponorata,15,10379,1
 11405270,Scoala Primara Popanzalesti,12,10380,0
 11409434,Scoala Primara Posta,15,10381,1
@@ -11353,7 +11316,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11402737,"Scoala Primara, Sat Șerbanesti, Com. Pausesti",23,10407,0
 11402821,"Scoala Primara, Sat Tepsenari, Com. Milcoiu",23,1981,0
 11402948,"Scoala Primara, Sat Valea Cheii, Com. Pausesti Maglasi",23,1991,1
-11402948,"Scoala Primara, Sat Valea Cheii, Com. Pausesti Maglasi",23,10408,1
 11402645,"Scoala Primara, Sat Valea Mare, Oras Babeni",23,1993,0
 11402960,"Scoala Primara, Sat Zavoieni, Com. Maciuca",23,10409,0
 11401715,Scoala Primara Satu Mare,25,10410,0
@@ -11401,7 +11363,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11400365,Scoala Primara Tonea,28,10440,0
 11400737,Scoala Primara Trampoiele,28,10441,1
 11409365,Scoala Primara Tuidic,15,1817,0
-11409365,Scoala Primara Tuidic,15,10442,0
 11404656,Scoala Primara Tulburea,9,10443,0
 11409374,Scoala Primara Tulghes,15,10444,0
 11405786,Scoala Primara Tunarii Noi,12,10445,0
@@ -11431,7 +11392,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11400402,Scoala Primara Vartanesti,28,10460,0
 11401390,Scoala Primara Vasile Goldis,25,10461,0
 11404728,Scoala Primara Verdea,9,2129,0
-11404728,Scoala Primara Verdea,9,10462,0
 11406472,Scoala Primara Vetresti-Herastrau,9,2132,1
 11403449,"Scoala Primara ""Victor Isaceanu"" Padureni - Sendriceni",10,10463,0
 11404628,Scoala Primara Viisoara,9,2138,0
@@ -11605,7 +11565,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11398990,"Şcoala Gimnazială ""Alexandru Vechiu""",16,10602,1
 11392781,"Școala Gimnazială ""Alexandru Vlahuță"", Iași",19,10603,0
 11408134,"Școala Gimnazială ""Alexandru Vlahuță"", Sat Alexandru Vlahuță",26,5621,0
-11408134,"Școala Gimnazială ""Alexandru Vlahuță"", Sat Alexandru Vlahuță",26,10604,0
 11393125,"Școala Gimnazială, Alexeni",19,10605,0
 11392959,"Școala Gimnazială ""Alice Voinescu"" Drobeta Turnu Severin",40,10606,1
 11395272,Școala Gimnazială Alimanesti,18,10607,0
@@ -12075,7 +12034,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11407249,Şcoala Gimnazială Ciulniţa,24,10980,1
 11397279,Școala Gimnazială Ciumești,43,10981,0
 11396248,Școala Gimnazială Ciuperceni,11,3165,0
-11396248,Școala Gimnazială Ciuperceni,11,10982,0
 11399586,Școala Gimnazială Ciuperceni,34,4216,0
 11392753,"Școala Gimnazială, Ciurea",19,10983,0
 11406275,"Școala Gimnazială Ciurila, Com. Ciurila",42,10984,0
@@ -13017,7 +12975,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11406294,"Școala Gimnazială ""Ion Agârbiceanu"" Cluj-Napoca",42,11746,1
 11399861,"Şcoala Gimnazială ""Ion Albescu"" Boiţa",29,11747,0
 11408603,"Școala Gimnazială ""Ion Angheluță"", Sat Bălțați",26,5641,0
-11408603,"Școala Gimnazială ""Ion Angheluță"", Sat Bălțați",26,11748,0
 11394488,"Școala Gimnazială ""Ion Aristotel"" Sat Băbeni Comuna Topliceni",37,5630,0
 11408331,"Școala Gimnazială ""Ion Artene"", Sat Găgești",26,5704,1
 11394267,"Școala Gimnazială ""Ion Barbir"" Capu Câmpului",4,4204,0
@@ -13180,7 +13137,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11402118,"Școala Gimnazială ""Kadar Marton"" Pănet",7,11880,1
 11396314,"Şcoala Gimnazială ""Kájoni János"" Ciceu",38,11881,0
 11396841,"Școala Gimnazială ""Kálnoky Ludmilla"" Valea Crișului",8,6437,0
-11396841,"Școala Gimnazială ""Kálnoky Ludmilla"" Valea Crișului",8,11882,0
 11396977,"Școala Gimnazială ""Kányádi Sándor"" Porumbenii Mari",38,11883,1
 11396798,"Școala Gimnazială ""Karatna"" Turia",8,11884,0
 11405921,"Şcoala Gimnazială ""Kazinczy Ferenc"" Şimian",39,11885,0
@@ -13408,7 +13364,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11409590,"Școala Gimnazială ""Mihai Eminescu"", Mun. Vaslui",26,12060,1
 11398000,"Școala Gimnazială ""Mihai Eminescu"", Municipiul Ploiești",41,12061,1
 11409781,"Școala Gimnazială ""Mihai Eminescu"", Municipiul Roman",20,12062,0
-11409781,"Școala Gimnazială ""Mihai Eminescu"", Municipiul Roman",20,14522,0
 11407481,"Școala Gimnazială ""Mihai Eminescu"" Năsăud",45,12063,1
 11406922,"Școala Gimnazială ""Mihai Eminescu"" Pitești",35,12064,1
 11393808,"Școala Gimnazială ""Mihai Eminescu"" Rădăuți",4,12065,1
@@ -13540,7 +13495,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11391870,Școala Gimnazială Murighiol,17,12168,0
 11406767,Școala Gimnazială Mușătești,35,12169,0
 11396077,Școala Gimnazială Mușetești,11,4844,0
-11396077,Școala Gimnazială Mușetești,11,12170,0
 11408144,"Școala Gimnazială ""N. Gh. Lupu"", Sat Arsura",26,5624,0
 11397117,Școala Gimnazială Nadeș,7,12171,0
 11397266,Școala Gimnazială Nadișu Hododului,43,12172,1
@@ -13828,7 +13782,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11408414,"Școala Gimnazială Nr. 1, Sat Mălușteni",26,12388,0
 11408470,"Școala Gimnazială Nr. 1, Sat Parpanița-Negrești",26,5815,1
 11408488,"Școala Gimnazială Nr. 1, Sat Pădureni",26,5331,0
-11408488,"Școala Gimnazială Nr. 1, Sat Pădureni",26,5817,0
 11408494,"Școala Gimnazială Nr. 1, Sat Perieni",26,4351,1
 11409091,"Școala Gimnazială Nr. 1, Sat Pildești, Comuna Cordun",20,12389,0
 11408499,"Școala Gimnazială Nr. 1, Sat Pogana",26,5834,1
@@ -14293,7 +14246,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11399730,Școala Gimnazială Nr.1 Horoatu Crasnei,1,12736,0
 11404424,Școala Gimnazială Nr.1 Hotar,39,4826,0
 11400842,Școala Gimnazială Nr.1 Hulubești,44,3786,0
-11400842,Școala Gimnazială Nr.1 Hulubești,44,12737,0
 11403194,Şcoala Gimnazială Nr.1 Husasău De Tinca,39,12738,0
 11401036,Școala Gimnazială Nr.1 I. L. Caragiale,44,12739,0
 11393167,"Școala Gimnazială Nr.1, Icușeni",19,12740,0
@@ -14378,7 +14330,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11402072,Școala Gimnazială Nr.1 Tărian,39,12788,0
 11402334,Școala Gimnazială Nr.1 Tăuteu,39,12789,1
 11396174,Școala Gimnazială Nr.1 Telești,11,4898,0
-11396174,Școala Gimnazială Nr.1 Telești,11,6292,0
 11403257,Şcoala Gimnazială Nr.1 Tileagd,39,12790,1
 11395589,Școala Gimnazială Nr.1 Timișoara,33,12791,1
 11403382,Şcoala Gimnazială Nr.1 Truşeşti,10,4382,0
@@ -14619,7 +14570,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11401809,"Şcoala Gimnazială ""Pater Godo Mihaly"" Dorobanţi",25,12975,0
 11401815,"Şcoala Gimnazială ""Patrichie Popescu"" Bata",25,12976,0
 11405544,"Şcoala Gimnazială ""Paul Anghel"" Recea",30,5866,0
-11405544,"Şcoala Gimnazială ""Paul Anghel"" Recea",30,12977,0
 11407477,"Școala Gimnazială ""Paul Tanco"" Monor",45,12978,0
 11404130,Şcoala Gimnazială „Pavel Bordan“ Grădinari,27,3695,0
 11401722,"Şcoala Gimnazială ""Pavel Covaci"" Macea",25,12979,0
@@ -15055,7 +15005,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11408297,"Școala Gimnazială, Sat Râșești",26,5865,0
 11408557,"Școala Gimnazială, Sat Rebricea",26,13300,1
 11408378,"Școala Gimnazială, Sat Recea",26,5866,0
-11408378,"Școala Gimnazială, Sat Recea",26,12977,0
 11397989,"Școala Gimnazială, Sat Românești, Comuna Bărcănești",41,13301,0
 11394023,Şcoala Gimnazială Sat Sările Comuna Bisoca,37,13302,0
 11408162,"Școala Gimnazială, Sat Sârbi",26,2033,0
@@ -15219,10 +15168,8 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11406570,Școala Gimnazială Slănic,35,13429,0
 11395146,Școala Gimnazială Slătioara,18,13430,1
 11393727,Școala Gimnazială Slătioara,4,6111,0
-11393727,Școala Gimnazială Slătioara,4,13431,0
 11399812,Şcoala Gimnazială Slimnic,29,13432,0
 11395941,Școala Gimnazială Slivilești,11,6113,0
-11395941,Școala Gimnazială Slivilești,11,13433,0
 11392713,"Școala Gimnazială, Slobozia",19,3926,0
 11393350,"Școala Gimnazială, Slobozia",19,3926,0
 11409077,"Școala Gimnazială Slobozia, Comuna Boghicea",20,13434,0
@@ -16722,7 +16669,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11391975,Școala Primară Murgești,7,14520,0
 11406863,Școala Primară Mustățești,35,14521,1
 11409780,"Școala Primară ""Mușatinii"", Municipiul Roman",20,12062,1
-11409780,"Școala Primară ""Mușatinii"", Municipiul Roman",20,14522,1
 11403090,Școala Primară Nadiș,1,4145,0
 11396713,"Școala Primară ""Nagy Károly"" Boroșneu Mic",8,6330,1
 11397081,"Școala Primară ""Nárcisz"" Vlăhița",38,14523,0
@@ -16942,7 +16888,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11402290,Școala Primară Nr.1 Toboliu,39,14639,0
 11399186,Școala Primară Nr.1 Tomulești,2,14640,0
 11395974,"Școala Primară Nr.1 Totea, Licurici",11,4901,0
-11395974,"Școala Primară Nr.1 Totea, Licurici",11,14641,0
 11399153,Școala Primară Nr.1 Tufa,2,14642,1
 11404557,Școala Primară Nr.1 Țigănești De Criș,39,4576,1
 11405966,Şcoala Primară Nr.1 Vad Deal,39,14643,0
@@ -17001,7 +16946,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11405938,Școala Primară Nr.2 Tărcăița,39,5048,1
 11404574,Şcoala Primară Nr.2 Tăşad Goila,39,5196,0
 11396176,Școala Primară Nr.2 Telești,11,4898,0
-11396176,Școala Primară Nr.2 Telești,11,6292,0
 11403258,Şcoala Primară Nr.2 Tilecuş,39,4571,1
 11393173,"Școala Primară Nr.2, Todireşti",19,4380,0
 11408116,Școala Primară Nr.2 Uileacu De Munte,39,5052,1
@@ -17234,7 +17178,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11408640,"Școala Primară, Sat Băncești",26,5642,0
 11408315,"Școala Primară, Sat Bârlălești",26,5645,0
 11408581,"Școala Primară, Sat Bârzești",26,5646,0
-11408581,"Școala Primară, Sat Bârzești",26,14829,0
 11408285,"Școala Primară, Sat Belzeni",26,5650,0
 11402799,"Școala Primară, Sat Benești, Oraș Bălcești",23,1918,1
 11408257,"Școala Primară, Sat Bereasa",26,5653,0
@@ -17273,7 +17216,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11397667,"Școala Primară, Sat Coțofenești, Comuna Vărbilău",41,14855,1
 11408138,"Școala Primară, Sat Crasna",26,14856,0
 11408552,"Școala Primară, Sat Crăciunești",26,895,0
-11408552,"Școala Primară, Sat Crăciunești",26,14857,0
 11408215,"Școala Primară, Sat Crâng",26,14858,0
 11408216,"Școala Primară, Sat Crângu Nou",26,14859,1
 11409613,"Școala Primară, Sat Crețești",26,14860,0
@@ -17314,7 +17256,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11408317,"Școala Primară, Sat Horga",26,14882,0
 11408232,"Școala Primară, Sat Horoiata",26,5727,0
 11408239,"Școala Primară, Sat Hreasca",26,5728,0
-11408239,"Școala Primară, Sat Hreasca",26,14883,0
 11408613,"Școala Primară, Sat Huc",26,5729,0
 11408564,"Școala Primară, Sat Idrici",26,5735,0
 11408392,"Școala Primară, Sat Ivănești",26,4349,0
@@ -17340,7 +17281,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11408382,"Școala Primară, Sat Mânzați",26,5768,1
 11408418,"Școala Primară, Sat Mânzățești",26,12034,0
 11397788,"Școala Primară, Sat Meri, Comuna Drăgănești",41,5771,0
-11397788,"Școala Primară, Sat Meri, Comuna Drăgănești",41,14895,0
 11408158,"Școala Primară, Sat Miclești",26,5772,0
 11408597,"Școala Primară, Sat Mircești",26,14896,0
 11397793,"Școala Primară, Sat Miroslăvești, Comuna Puchenii Mari",41,14897,1
@@ -17382,7 +17322,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11394493,Şcoala Primară Sat Poşta Comuna Topliceni,37,3305,0
 11398015,"Școala Primară, Sat Predești, Comuna Tinosu",41,14916,0
 11408344,"Școala Primară, Sat Racovița",26,5857,0
-11408344,"Școala Primară, Sat Racovița",26,14917,0
 11397991,"Școala Primară, Sat Rahova, Comuna Podenii Noi",41,14918,0
 11408464,"Școala Primară, Sat Raiu",26,5859,0
 11408553,"Școala Primară, Sat Rateșu Cuzei",26,5860,1
@@ -17417,7 +17356,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11408657,"Școala Primară, Sat Telejna",26,5910,1
 11394149,Școala Primară Sat Terca Comuna Lopătari,37,14931,0
 11408539,"Școala Primară, Sat Toporăști",26,5914,0
-11408539,"Școala Primară, Sat Toporăști",26,14932,0
 11397859,"Școala Primară, Sat Trenu, Comuna Chiojdeanca",41,14933,1
 11394216,Şcoala Primară Sat Trestioara Comuna Mânzăleşti,37,14934,0
 11408672,"Școala Primară, Sat Trohan",26,5918,0
@@ -17708,7 +17646,6 @@ SchoolId,SchoolName,CountyId,SchoolAddressId,TrustedLocation
 11406415,"Școala Primară Vâlcele, Com. Feleacu",42,15125,0
 11399335,Școala Primară Vârtoapele De Jos,34,15126,0
 11396251,"Școala Primară Vârtopu, Ciuperceni",11,6501,0
-11396251,"Școala Primară Vârtopu, Ciuperceni",11,15127,0
 11396979,"Școala Primară ""Vékás Domokos"" Porumbenii Mici",38,15128,1
 11399910,Şcoala Primară Velţ,29,15129,0
 11410177,Școala Primară Veneția De Sus,36,6503,0
